@@ -2,3 +2,6 @@ lalala hi
 pl/sql
 python
 aws
+
+today is 23/5
+docker
